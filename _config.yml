@@ -1,7 +1,7 @@
 title: CocoaGems
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+description: This is a blog about Team CocoaGems RGSoC experience
 
-url: http://brianmaierjr.github.com/long-haul
+url: http://github.com/cocoagems
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
@@ -19,9 +19,8 @@ navigation:
    url: /contact.html
 
 social:
-   github: brianmaierjr
-   twitter: brianmaierjr
-   facebook: brianmaierjr
-   email: brimaidesigns@gmail.com
+   github: cocoagems
+   twitter: cocoagems
+   email: cocoagemsrailsgirls@gmail.com
 
 google_analytics: "UA-58263416-1"
