@@ -19,6 +19,6 @@ title: About CocoaGems
 </p>
 
 
-		<img src="{{ '/assets/img/KarlaEmma_HalfBody.jpg' | prepend: site.baseurl }}" alt="">
+		<img src="{{ '/assets/img/KarlaEmma_FullBody.jpg' | prepend: site.baseurl }}" alt="">
 
 </div>
