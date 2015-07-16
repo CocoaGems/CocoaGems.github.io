@@ -24,8 +24,8 @@ In the grand Metreon movie theater there would be <a href="http://altconf.com/">
 
 During the rest of the week we hung out at AltConf, went to sessions about iOS development,
 Swift, Open Source and more. Our mentors from CocoaPods all spoke at AltConf. We got to hear
-about what CocoaPods had meant for them. About <a href="https://realm.io/news/altconf-orta-therox-being-nice-in-open-source/">being nice</a> in open source development (and on
-the internet in general). We got to learn a lot about swift and functional programming. CocoaPods also had their own <a href="http://blog.cocoapods.org/2015-CocoaPods-State-of-the-Union/">state of the union</a> event where they present the work that has been done during the year.
+about what CocoaPods <a href="https://realm.io/news/altconf-samuel-e-giddins-an-oss-education/"> had meant for them</a>. About <a href="https://realm.io/news/altconf-orta-therox-being-nice-in-open-source/">being nice</a> in open source development (and on
+the internet in general). We got to learn a lot about <a href="https://realm.io/news/altconf-boris-bugling-swift-funtime/">swift</a> and <a href="https://realm.io/news/altconf-kyle-fuller-practical-declarative-programming/">functional programming</a>. CocoaPods also had their own <a href="http://blog.cocoapods.org/2015-CocoaPods-State-of-the-Union/">state of the union</a> event where they present the work that has been done during the year.
 
 CocoaPods is a distributed team of around 15 developers working on and off around the world.
 We were lucky to meet so many of the CocoaPods members during this week when so many of them
