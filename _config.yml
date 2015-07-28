@@ -1,7 +1,7 @@
 title: CocoaGems
 description: This is a blog about Team CocoaGems RGSoC experience
 
-url: http://github.com/cocoagems
+url: http://cocoagems.github.io
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
