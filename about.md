@@ -1,12 +1,42 @@
 ---
-layout: default
-title: About CocoaGems
+layout: About Us Post
+title: "Who is Team CocoaGems?"
+date: 2015-07-06
+author: karla_sandoval
 ---
-
 <div class="post">
 	<h1 class="pageTitle">About CocoaGems</h1>
 
-	<p class="intro">CocoaGems is the Rails Girls Summer of Code (RGSoC) team of Emma Koszinowski and Karla Sandoval. <a href="http://railsgirlssummerofcode.org">Rails Girls Summer of Code</a> is a not-for-profit organization that provides a three month long global fellowship to diversify Open Source. In addition to increasing diversity the fellowship helps pair participating teams with an Open Source project of choice and provides students a monthly stipend to off set costs of living throughout the program.</p>
+	<p class="intro">CocoaGems is the Rails Girls Summer of Code (RGSoC) team of Emma Koszinowski and Karla Sandoval. Emma and Karla met whi
+
+
+
+	<a href="http://railsgirlssummerofcode.org">Rails Girls Summer of Code</a> is a not-for-profit organization that provides three month long fellowships globally to diversify Open Source Software. Rails Girls Summer of Code is in its third year and it is one of the very few programs where your programming skills, learn with coaches and mentors and get to work on an open source project and receive a scholarship to offset living costs throughout the program.
+
+
+Learning instead of having to pay to learn. Which is kind of rare these days given the hefty price of bootcamps these days.
+
+	The program is different in that it specifically for women which is great because given that the numbers of male to females in programming are a lot fewer we have tended to shy away in the past since there has been a lack of role models to connect to.
+
+You get to develop connections with the coaches who have volunteered to work with you throughout the summer and you develop familiarity with the open source project you decide to work on.
+
+	Once you are accepted
+
+
+
+
+
+
+
+
+	learning catalyst for many
+
+
+
+	 In addition to increasing diversity the fellowship helps pair participating teams with an Open Source project of choice and
+
+
+	and provides students a monthly stipend to off set costs of living throughout the program and the best part of .</p>
 
 
 	<p> For our application to be considered by RGSoC we had to find an Open Source project, more than two coaches that could help us with coding and preferably a coaching company that could provide work space for us.</p>
