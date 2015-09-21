@@ -1,8 +1,7 @@
 ---
 layout: default
 title: "Who Is Team CocoaGems?"
-date: 2015-07-06
-author: karla_sandoval
+
 ---
 
 
@@ -16,9 +15,9 @@ author: karla_sandoval
 
 
 <p>Our team  is made up more than us two. It includes our Github coaches: Rachel Myers, Jese Toth, Ross McFarland, Jake Boxer and Rob Rix. Our CocoaPods mentors: Kyle Fuller, Orta Therox, Samuel Giddins and Boris Bügling. Our external coaches  Nevyn Bengtsson, co-founder at <a href="https://lookback.io/">Lookback</a> and Sean Mackesey- UC Berkeley.
-Thank you Rails Girl Summer of Code, CocoaPods and Github for all of your support and enthusiasm. This journey has just begun and it is incredible with you all.</p>
+Thank you Rails Girl Summer of Code, CocoaPods and Github for all of your support and enthusiasm. This journey has just begun and it is incredible with you all.
 
 
-		<img src="{{ '/assets/img/KarlaEmma_FullBody.jpg' | prepend: site.baseurl }}" alt="">
+		<img src="{{ '/assets/img/KarlaEmma_HalfBody.jpg' | prepend: site.baseurl }}" alt=""></p>
 
 </div>
