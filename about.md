@@ -1,11 +1,9 @@
 ---
-layout: About Us Post
+layout: default
 title: "Who Is Team CocoaGems?"
 date: 2015-07-06
 author: karla_sandoval
 ---
-<div class="post">
-	<h1 class="pageTitle">About CocoaGems</h1>
 
 
 <p class="intro">CocoaGems is the name of our Rails Girls Summer of Code (RGSoC) team. Emma Koszinowski and  Karla Sandoval met at a Women Who Code, Python Study Night back in February. Soon after we began trading tech Meetup invites and attending the same <a href="https://www.girldevelopit.com/chapters/san-franciscoGirl"> Develop It workshops</a>. Our commitment to learn how to code was mutual. We met at coffee shops to work on tutorials weekly, motivated each other. Soon after we applied to RGSoC. With only two weeks left till application due dates we began the application journey.</p>
