@@ -19,5 +19,6 @@ Thank you Rails Girl Summer of Code, CocoaPods and Github for all of your suppor
 
 
 		<img src="{{ '/assets/img/KarlaEmma_HalfBody.jpg' | prepend: site.baseurl }}" alt=""></p>
+<p>To learn more about our Rails Girls Summer of Code Team visit us at<a =href"http://railsgirlssummerofcode.org/blog/2015-07-22-hello-we-are-cocoagems/">Rails Girls Summer of Code Blog</a>.
 
 </div>
