@@ -1,4 +1,4 @@
-This is a blog about our Rails Girls Summer of Code experience as Team CocoaGems
+This is a blog about our Rails Girls Summer of Code experience as Team CocoaGems.
 
 
 ## About CocoaGems
